@@ -1,1 +1,3 @@
 public/bin/*.swf
+public/images/accounts/*
+log/*.log
